@@ -11,3 +11,9 @@
     color: blue;
     font-size: 36px;
 }
+
+#two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
